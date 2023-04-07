@@ -1,0 +1,32 @@
+{
+  "testfile1": {
+    "entity": "file",
+    "size": "0",
+    "parent": "TestFolder1"
+  },
+  "TestFolder2": {
+    "entity": "dir",
+    "size": "40",
+    "parent": "Seminar_8"
+  },
+  "TestFolder3": {
+    "entity": "dir",
+    "size": "193",
+    "parent": "Seminar_8"
+  },
+  "testfile2": {
+    "entity": "file",
+    "size": "0",
+    "parent": "TestFolder2"
+  },
+  "levels.json": {
+    "entity": "file",
+    "size": "40",
+    "parent": "TestFolder2"
+  },
+  "text3.txt": {
+    "entity": "file",
+    "size": "193",
+    "parent": "TestFolder3"
+  }
+}
